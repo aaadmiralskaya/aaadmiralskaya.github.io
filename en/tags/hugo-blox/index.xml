@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://aaadmiralskaya.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://aaadmiralskaya.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aaadmiralskaya.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://aaadmiralskaya.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://aaadmiralskaya.github.io/en/post/01/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aaadmiralskaya.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели-разборы-вызовы-и-маленькие-победы&#34;&gt;🚀 Итоги недели: разборы, вызовы и маленькие победы&lt;/h2&gt;
+&lt;p&gt;Эта неделя выдалась непростой, но насыщенной.&lt;/p&gt;
+&lt;p&gt;🔢 &lt;strong&gt;Линейная алгебра&lt;/strong&gt;: разобралась с методом Гаусса, наконец-то поняла, почему он так важен.&lt;br&gt;
+📐 &lt;strong&gt;Механика&lt;/strong&gt;: первая лабораторная работа. Долгие расчёты, но результат того стоил.&lt;br&gt;
+👩‍💻 &lt;strong&gt;Программирование&lt;/strong&gt;: написала свою первую программу для решения уравнений! Пока не идеально, но работает.&lt;br&gt;
+☕ &lt;strong&gt;Вне учёбы&lt;/strong&gt;: встретилась с одногруппниками, обсудили математику и жизнь. Поняла, что не одна такая, кто засыпает на лекциях. 😅&lt;/p&gt;
+&lt;p&gt;На следующей неделе — первая контрольная. Время готовиться! 📚&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
