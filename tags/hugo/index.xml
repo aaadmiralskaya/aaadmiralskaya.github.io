@@ -5,7 +5,7 @@
     <link>https://aaadmiralskaya.github.io/tags/hugo/</link>
       <atom:link href="https://aaadmiralskaya.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aaadmiralskaya.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,34 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://aaadmiralskaya.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aaadmiralskaya.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://aaadmiralskaya.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aaadmiralskaya.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://aaadmiralskaya.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aaadmiralskaya.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Как учёному завести крутой сайт с помощью Hugo Academic</title>
+      <link>https://aaadmiralskaya.github.io/project/hugo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://aaadmiralskaya.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Если вы занимаетесь наукой и до сих пор не обзавелись собственным сайтом — вы упускаете целый пласт возможностей. Персональный сайт — это не только способ заявить о себе, но и мощный инструмент для популяризации ваших исследований, привлечения коллег, студентов, партнёров и просто интересующихся вашей темой.&lt;/p&gt;
+&lt;p&gt;И вот тут на помощь приходит &lt;strong&gt;Hugo Academic&lt;/strong&gt; — современная платформа, которая позволяет без особых усилий собрать аккуратный, красивый и информативный сайт.&lt;/p&gt;
+&lt;h2 id=&#34;что-это-вообще-такое&#34;&gt;Что это вообще такое?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это тема для статического генератора сайтов Hugo, которая заточена специально под нужды учёных. Здесь всё продумано: от списка публикаций и биографии до проектов, курсов и блогов. Всё выглядит стильно, легко настраивается и быстро работает.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-удобно&#34;&gt;Почему это удобно?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Всё под рукой&lt;/strong&gt;. Публикации, лекции, проекты, достижения — всё можно разместить на одном сайте, структурировано и красиво.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация&lt;/strong&gt;. Поддерживается подключение к Google Scholar, ORCID и другим сервисам — публикации подтягиваются сами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Современный интерфейс&lt;/strong&gt;. Сайт адаптируется под мобильные устройства, выглядит аккуратно и профессионально.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость&lt;/strong&gt;. Легко добавить блог, список выступлений, афишу событий и всё, что душе угодно.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Открытость&lt;/strong&gt;. Проект с открытым исходным кодом — можно менять всё что угодно или оставить как есть.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;для-кого-это&#34;&gt;Для кого это?&lt;/h2&gt;
+&lt;p&gt;Подходит всем, кто так или иначе связан с наукой, образованием и исследованиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;аспирантам и докторантам, чтобы показать свою работу;&lt;/li&gt;
+&lt;li&gt;преподавателям, чтобы делиться материалами курсов;&lt;/li&gt;
+&lt;li&gt;исследователям, чтобы собрать всё своё портфолио в одном месте;&lt;/li&gt;
+&lt;li&gt;научным группам и лабораториям, чтобы представить команду и проекты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;а-что-в-итоге&#34;&gt;А что в итоге?&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic — это не просто онлайн-резюме, это ваша профессиональная платформа. Он работает на вас 24/7, рассказывает о вашей научной деятельности, помогает находить коллег, расширяет аудиторию и придаёт вес вашему имени в интернете.&lt;/p&gt;
+&lt;p&gt;Если вы давно думали о сайте — это отличный повод наконец-то его сделать.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

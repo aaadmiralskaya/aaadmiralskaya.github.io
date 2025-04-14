@@ -5,12 +5,28 @@
     <link>https://aaadmiralskaya.github.io/tags/hugo-blox/</link>
       <atom:link href="https://aaadmiralskaya.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aaadmiralskaya.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://aaadmiralskaya.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://aaadmiralskaya.github.io/post/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://aaadmiralskaya.github.io/post/04/</guid>
+      <description>&lt;h1 id=&#34;-краткие-итоги-прошедшей-недели&#34;&gt;📌 Краткие итоги прошедшей недели&lt;/h1&gt;
+&lt;p&gt;Неделя выдалась насыщенной и местами непростой, но именно в этом и кайф учебы — видеть, как кусочки знаний начинают складываться в целостную картину.&lt;/p&gt;
+&lt;p&gt;🔹 На лекциях по линейной алгебре наконец-то &amp;ldquo;щелкнули&amp;rdquo; собственные значения — раньше казались чем-то абстрактным, а теперь становится видно, зачем это вообще нужно.&lt;/p&gt;
+&lt;p&gt;🔹 Практика по математическому анализу снова доказала, что интегралы — это не просто площадь под графиком. Когда начинаешь видеть их в физическом контексте, появляется совсем другой интерес.&lt;/p&gt;
+&lt;p&gt;🔹 Продолжаю работу над мини-проектом по Python — пытаюсь визуализировать динамику физических процессов. Пока сложно, но уже ясно, в каком направлении двигаться.&lt;/p&gt;
+&lt;p&gt;🔹 Бонус: на семинаре по механике обсуждали применение вариационного принципа в задачах динамики. Ощущение, будто подглядываешь в законы, по которым работает Вселенная.&lt;/p&gt;
+&lt;p&gt;Понял одну важную вещь: учиться — это не просто «решать задачи», а постепенно перенастраивать свое мышление.&lt;/p&gt;
+&lt;p&gt;Жду следующей недели — по ощущениям она будет не менее драйвовой.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
